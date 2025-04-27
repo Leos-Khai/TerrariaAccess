@@ -1,0 +1,341 @@
+Folder PATH listing for volume Acer
+Volume serial number is A8E8-5620
+C:.
+|   build.txt
+|   CrossSpeak.deps.json
+|   CrossSpeak.dll
+|   CrossSpeak.pdb
+|   description.txt
+|   description_workshop.txt
+|   filestructure.txt
+|   icon.png
+|   TerrariaAccess.cs
+|   TerrariaAccess.csproj
+|   TerrariaAccess.sln
+|   TolkDotNet.dll
+|   
++---bin
+|   |   filestructure.txt
+|   |   
+|   \---Debug
+|       \---net8.0
+|           |   Basic.Reference.Assemblies.Net80.dll
+|           |   CrossSpeak.dll
+|           |   CrossSpeak.pdb
+|           |   CsvHelper.dll
+|           |   DotNetZip.dll
+|           |   DotNetZip.pdb
+|           |   DotNetZip.xml
+|           |   FNA.dll
+|           |   FNA.pdb
+|           |   Hjson.dll
+|           |   Hjson.xml
+|           |   Humanizer.dll
+|           |   libspeak.dylib
+|           |   libspeechdwrapper.so
+|           |   log4net.dll
+|           |   Microsoft.Build.dll
+|           |   Microsoft.Build.Framework.dll
+|           |   Microsoft.Build.Framework.pdb
+|           |   Microsoft.Build.Framework.xml
+|           |   Microsoft.Build.Locator.dll
+|           |   Microsoft.Build.pdb
+|           |   Microsoft.Build.Tasks.Core.dll
+|           |   Microsoft.Build.Tasks.Core.pdb
+|           |   Microsoft.Build.Tasks.Core.xml
+|           |   Microsoft.Build.Utilities.Core.dll
+|           |   Microsoft.Build.Utilities.Core.pdb
+|           |   Microsoft.Build.Utilities.Core.xml
+|           |   Microsoft.Build.xml
+|           |   Microsoft.CodeAnalysis.CSharp.dll
+|           |   Microsoft.CodeAnalysis.CSharp.pdb
+|           |   Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+|           |   Microsoft.CodeAnalysis.CSharp.Workspaces.pdb
+|           |   Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+|           |   Microsoft.CodeAnalysis.CSharp.xml
+|           |   Microsoft.CodeAnalysis.dll
+|           |   Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+|           |   Microsoft.CodeAnalysis.FlowAnalysis.Utilities.dll
+|           |   Microsoft.CodeAnalysis.FlowAnalysis.Utilities.xml
+|           |   Microsoft.CodeAnalysis.pdb
+|           |   Microsoft.CodeAnalysis.Workspaces.dll
+|           |   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+|           |   Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll.config
+|           |   Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+|           |   Microsoft.CodeAnalysis.Workspaces.MSBuild.pdb
+|           |   Microsoft.CodeAnalysis.Workspaces.MSBuild.xml
+|           |   Microsoft.CodeAnalysis.Workspaces.pdb
+|           |   Microsoft.CodeAnalysis.Workspaces.xml
+|           |   Microsoft.CodeAnalysis.xml
+|           |   Microsoft.Extensions.DependencyInjection.Abstractions.dll
+|           |   Microsoft.Extensions.DependencyInjection.Abstractions.xml
+|           |   Microsoft.Extensions.DependencyInjection.dll
+|           |   Microsoft.Extensions.DependencyInjection.xml
+|           |   Microsoft.Extensions.Logging.Abstractions.dll
+|           |   Microsoft.Extensions.Logging.Abstractions.xml
+|           |   Microsoft.Extensions.Logging.dll
+|           |   Microsoft.Extensions.Logging.xml
+|           |   Microsoft.Extensions.Options.dll
+|           |   Microsoft.Extensions.Options.xml
+|           |   Microsoft.Extensions.Primitives.dll
+|           |   Microsoft.Extensions.Primitives.xml
+|           |   Microsoft.NET.StringTools.dll
+|           |   Microsoft.NET.StringTools.pdb
+|           |   Microsoft.NET.StringTools.xml
+|           |   Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+|           |   Microsoft.VisualStudio.Setup.Configuration.Interop.xml
+|           |   Mono.Cecil.dll
+|           |   Mono.Cecil.Mdb.dll
+|           |   Mono.Cecil.Mdb.pdb
+|           |   Mono.Cecil.pdb
+|           |   Mono.Cecil.Pdb.dll
+|           |   Mono.Cecil.Pdb.pdb
+|           |   Mono.Cecil.Rocks.dll
+|           |   Mono.Cecil.Rocks.pdb
+|           |   MonoMod.Backports.dll
+|           |   MonoMod.Backports.pdb
+|           |   MonoMod.Backports.xml
+|           |   MonoMod.Core.dll
+|           |   MonoMod.Core.pdb
+|           |   MonoMod.Core.xml
+|           |   MonoMod.Iced.dll
+|           |   MonoMod.Iced.pdb
+|           |   MonoMod.Iced.xml
+|           |   MonoMod.ILHelpers.dll
+|           |   MonoMod.ILHelpers.pdb
+|           |   MonoMod.RuntimeDetour.dll
+|           |   MonoMod.RuntimeDetour.pdb
+|           |   MonoMod.RuntimeDetour.xml
+|           |   MonoMod.Utils.dll
+|           |   MonoMod.Utils.pdb
+|           |   MonoMod.Utils.xml
+|           |   MP3Sharp.dll
+|           |   Newtonsoft.Json.dll
+|           |   Newtonsoft.Json.xml
+|           |   nvdaControllerClient64.dll
+|           |   NVorbis.dll
+|           |   RailSDK.Net.dll
+|           |   ReLogic.dll
+|           |   ReLogic.pdb
+|           |   ReLogic.xml
+|           |   SAAPI64.dll
+|           |   Steamworks.NET.dll
+|           |   SteelSeriesEngineWrapper.dll
+|           |   Stubble.Core.dll
+|           |   Stubble.Core.pdb
+|           |   Stubble.Core.xml
+|           |   System.CodeDom.dll
+|           |   System.CodeDom.xml
+|           |   System.CommandLine.dll
+|           |   System.Composition.AttributedModel.dll
+|           |   System.Composition.AttributedModel.xml
+|           |   System.Composition.Convention.dll
+|           |   System.Composition.Convention.xml
+|           |   System.Composition.Hosting.dll
+|           |   System.Composition.Hosting.xml
+|           |   System.Composition.Runtime.dll
+|           |   System.Composition.Runtime.xml
+|           |   System.Composition.TypedParts.dll
+|           |   System.Composition.TypedParts.xml
+|           |   System.Configuration.ConfigurationManager.dll
+|           |   System.Configuration.ConfigurationManager.xml
+|           |   System.Diagnostics.EventLog.dll
+|           |   System.Diagnostics.EventLog.xml
+|           |   System.IO.Pipelines.dll
+|           |   System.IO.Pipelines.xml
+|           |   System.Reflection.MetadataLoadContext.dll
+|           |   System.Reflection.MetadataLoadContext.xml
+|           |   System.Resources.Extensions.dll
+|           |   System.Resources.Extensions.xml
+|           |   System.Security.Cryptography.Pkcs.dll
+|           |   System.Security.Cryptography.Pkcs.xml
+|           |   System.Security.Cryptography.ProtectedData.dll
+|           |   System.Security.Cryptography.ProtectedData.xml
+|           |   System.Security.Cryptography.Xml.dll
+|           |   System.Security.Cryptography.Xml.xml
+|           |   System.Security.Permissions.dll
+|           |   System.Security.Permissions.xml
+|           |   System.Windows.Extensions.dll
+|           |   System.Windows.Extensions.xml
+|           |   TerrariaAccess.deps.json
+|           |   TerrariaAccess.dll
+|           |   TerrariaAccess.pdb
+|           |   TerrariaHooks.dll
+|           |   tModLoader.dll
+|           |   tModLoader.pdb
+|           |   tModLoader.xml
+|           |   tModPorter.dll
+|           |   tModPorter.pdb
+|           |   Tolk.dll
+|           |   TolkDotNet.dll
+|           |   UtfUnknown.dll
+|           |   UtfUnknown.xml
+|           |   
+|           +---cs
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---de
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---es
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---fr
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---it
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---ja
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---ko
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---lib
+|           |   |   TolkDotNet.dll
+|           |   |   
+|           |   \---screen-reader-libs
+|           |       +---linux
+|           |       |       libspeechdwrapper.so
+|           |       |       
+|           |       +---macos
+|           |       |       libspeak.dylib
+|           |       |       
+|           |       \---windows
+|           |               nvdaControllerClient64.dll
+|           |               SAAPI64.dll
+|           |               Tolk.dll
+|           |               
+|           +---pl
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---pt-BR
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---ru
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---tr
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           +---zh-Hans
+|           |       Microsoft.CodeAnalysis.CSharp.resources.dll
+|           |       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|           |       Microsoft.CodeAnalysis.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|           |       Microsoft.CodeAnalysis.Workspaces.resources.dll
+|           |       System.CommandLine.resources.dll
+|           |       
+|           \---zh-Hant
+|                   Microsoft.CodeAnalysis.CSharp.resources.dll
+|                   Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+|                   Microsoft.CodeAnalysis.resources.dll
+|                   Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+|                   Microsoft.CodeAnalysis.Workspaces.resources.dll
+|                   System.CommandLine.resources.dll
+|                   
++---lib
+|   |   CrossSpeak.dll
+|   |   TolkDotNet.dll
+|   |   
+|   \---screen-reader-libs
+|       +---linux
+|       |       libspeechdwrapper.so
+|       |       
+|       +---macos
+|       |       libspeak.dylib
+|       |       
+|       \---windows
+|               nvdaControllerClient64.dll
+|               SAAPI64.dll
+|               Tolk.dll
+|               
++---Localization
+|       en-US_Mods.TerrariaAccess.hjson
+|       
++---obj
+|   |   project.assets.json
+|   |   project.nuget.cache
+|   |   TerrariaAccess.csproj.nuget.dgspec.json
+|   |   TerrariaAccess.csproj.nuget.g.props
+|   |   TerrariaAccess.csproj.nuget.g.targets
+|   |   
+|   \---Debug
+|       \---net8.0
+|           |   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+|           |   Terraria.BEAD1C54.Up2Date
+|           |   TerrariaAccess.AssemblyInfo.cs
+|           |   TerrariaAccess.AssemblyInfoInputs.cache
+|           |   TerrariaAccess.assets.cache
+|           |   TerrariaAccess.csproj.AssemblyReference.cache
+|           |   TerrariaAccess.csproj.CoreCompileInputs.cache
+|           |   TerrariaAccess.csproj.FileListAbsolute.txt
+|           |   TerrariaAccess.dll
+|           |   TerrariaAccess.GeneratedMSBuildEditorConfig.editorconfig
+|           |   TerrariaAccess.pdb
+|           |   
+|           +---ref
+|           |       TerrariaAccess.dll
+|           |       
+|           \---refint
+|                   TerrariaAccess.dll
+|                   
+\---Properties
+        launchSettings.json
+        

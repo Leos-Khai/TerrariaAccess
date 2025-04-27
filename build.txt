@@ -1,0 +1,5 @@
+displayName = TerrariaAccess
+author = TerrariaAccess
+version = 0.1
+dllReferences = CrossSpeak, TolkDotNet
+includeFiles = lib/
